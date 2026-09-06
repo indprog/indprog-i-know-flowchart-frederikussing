@@ -1,0 +1,9 @@
+Process: Checking if the beef is ready
+
+Start by measuring the beef temperature.
+
+If the beef temperature is greater than or equal to 50 degrees Celsius, output "Beef is ready", take the beef off the stove, and end the process.
+
+If the beef temperature is below 50 degrees Celsius, output "Beef not done", leave the beef on the stove, and measure the beef temperature again.
+
+Repeat this process until the beef temperature is greater than or equal to 50 degrees Celsius.
